@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Login</title>
+</head>
+<body>
+    <div class="container">
+        <form>
+            <div>Welcome 🥳</div>
+            <div>
+                <p>Username</p>
+                <input type="name" placeholder="Ex: Pedro Vitor" id="name" onchange="validateFeilds()"> 
+                <span class="error"></span>
+            <div>
+                <p>Email</p>
+                <input type="email" placeholder="Ex: example@gmail.com" id="email" onchange="validateFeilds()">
+                <span class="error">This email is invalid</span>
+            </div>
+            <div>
+                <p>Password</p>
+                <input type="password" id="password" placeholder="Ex: 12345678s" onchange="validateFeilds()">
+                <span class="error">Minimum of 8 characters, at least one letter and one number</span>
+            </div>
+            <div>
+                <button type="submit" id="Login-Button" disabled>Login</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
