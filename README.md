@@ -1,7 +1,11 @@
 # Login-Screen
 
+(./preview-design.png)
 
-https://login-screen-p.netlify.app/
 
+Nesse projeto eu fiz uma tela de login que obtem requisições.
 
-![Design preview for the Interactive card details form coding challenge](./preview-design.png)
+Skills usadas:
+- HTML5
+- CSS3
+- JAVASCRIPT
