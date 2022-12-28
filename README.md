@@ -1,6 +1,6 @@
 # Login-Screen
 
-(./design/desktop-preview.jpg)
+![Design preview for the Interactive card details form coding challenge](./design/desktop-preview.jpg)
 
 
 Nesse projeto eu fiz uma tela de login que obtem requisições.
