@@ -1,6 +1,6 @@
 # Login-Screen
 
-./preview-design.png
+<img scr="./preview-design.png"></img>
 
 
 Nesse projeto eu fiz uma tela de login que obtem requisições.
